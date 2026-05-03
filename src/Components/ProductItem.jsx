@@ -1,7 +1,6 @@
 
 
 function ProductItem({product}) {
-    console.log("duytdei");
     return (
         <div className="col-12 col-lg-4">
             <div className="product-item">

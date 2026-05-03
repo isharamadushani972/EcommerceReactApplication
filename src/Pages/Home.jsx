@@ -5,7 +5,6 @@ import { getProducts } from "../Data/products"
 function Home() {
 
   const productList=getProducts();
-  console.log(productList);
 
   return (
     <div>
